@@ -1,11 +1,11 @@
     header {
       text-align: center;
-      background: url("images/banner.jpg");
+      background: url("https://i.ytimg.com/vi/OLxaHwLYkJY/maxresdefault.jpg");
       background-size: cover;
       color: white;
     }
     .nav {
-      color: white;
+      color: black;
     }
     h1 {
       font-size: 70px;
@@ -17,7 +17,7 @@
     }
     ul {
       padding: 10px;
-      background: rgba(0,0,0,0.5);
+      background: white;
     }
     li {
       display: inline;
@@ -38,3 +38,17 @@
         display: block;
       }
     }
+img{
+  height: 400px;
+  width: 500px;
+}
+p{
+  color: red;
+  
+}
+.g{
+  color: green
+}
+.p{
+  color: purple;
+}
